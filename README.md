@@ -1,5 +1,5 @@
-# Data Analysis in Python
-Python is a general purpose easy to learn language having a flat learning curve. The syntax is relatively simple. The language can be easily understood and learnt by statisticians. Even with the knowledge of the syntax and basic functionality, one can start off with learning to use the Python libraries developed specifically for the purpose of data analysis.
+# Data Analysis and Visualization in Python
+Python is a general purpose easy to learn language having a flat learning curve. The syntax is relatively simple. The language can be easily understood and learnt by statisticians. Even with the knowledge of the syntax and basic functionality, one can start off with learning to use the Python libraries developed specifically for the purpose of data analysis and visualization.
 
 ## Packages required for Data Analysis
 * ### NumPy
@@ -11,6 +11,8 @@ It is one of the fundamental packages used for scientfic computing and data anal
 Pandas is an open source library built on top of NumPy. It provides high-performance data analysis tools and easy-to-use data structures such as Series and DataFrame for the Python programming language.
 
 [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
+## Packages required for Data Visualization
 
 * ### Matplotlib
 This library enables the user to produce publication quality figures. The analysis carried out using NumPy and Pandas can be depicted in a pictographic form using the Matplotlib library.
@@ -43,6 +45,10 @@ There are quite a few ways to install the required packages for data analysis, b
 
 ## Jupyter Notebook
 Previously known as the IPython notebook, this web-application provides an interactive computational environment, in which one can combine code execution, rich text, mathematics, plots and rich media. It is a widely used platform for data cleaning and transformation, numerical simulation, statistical modeling, data visualization and machine learning. Jupyter Notebook comes preinstalled with Anaconda.
+
+## NBViewer (NoteBook Viewer)
+IPython Notebook Viewer is a free webservice that allows you to share static html versions of hosted notebook files. If a notebook is publicly available, by giving its url to the Viewer, you should be able to view it.
+The interactive JavaScript won't render when opened on GitHub. NBViewer provides a platform for the JavaScript in .ipynb files to render.
 
 ## Datasets Used
 #### [Dataset1(Ebola)](https://data.humdata.org/dataset/ebola-cases-2014/resource/c59b5722-ca4b-41ca-a446-472d6d824d01)
